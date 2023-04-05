@@ -22,9 +22,13 @@ export const Menu = ({ className }: MenuProps) => {
         <div className={classNames(styles.root, className)}>
             <div className={styles.logo}>
                 <img src="https://i.imgur.com/zYa4iMN.png" className={styles.logoImg} />
-                <h6 className={styles.logoText}>Viuwa</h6>
+                <h6 className={styles.logoText}>RedBoard</h6>
             </div>
-            <span className={styles.queryTitle}>A student movie preview website.</span>
+            <span className={styles.queryTitle}>
+                An Entertainment platform made for students that allows users to search for movies
+                by title, sort them by genre, view trending and upcoming movies, and bookmark their
+                favorite movies.{' '}
+            </span>
             <span className={styles.queryTitle}>TYPE</span>
             <hr className={styles.hr} />
             <ul className={styles.menuList}>
@@ -57,7 +61,9 @@ export const Menu = ({ className }: MenuProps) => {
                     </li>
                 ))}
             </ul>
-            <button className={styles.menuButton}>Apply</button>
+            <a href="https://github.com/MalonzaMcCarthy" className={styles.github}>
+                Github
+            </a>
         </div>
     );
 };
