@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/test2.0/static/css/main.d88ae465.css",
-    "main.js": "/test2.0/static/js/main.45b87ef5.js",
-    "static/js/496.61c8cdb6.chunk.js": "/test2.0/static/js/496.61c8cdb6.chunk.js",
-    "index.html": "/test2.0/index.html",
-    "main.d88ae465.css.map": "/test2.0/static/css/main.d88ae465.css.map",
-    "main.45b87ef5.js.map": "/test2.0/static/js/main.45b87ef5.js.map",
-    "496.61c8cdb6.chunk.js.map": "/test2.0/static/js/496.61c8cdb6.chunk.js.map"
+    "main.css": "/Redboard2.0/static/css/main.d88ae465.css",
+    "main.js": "/Redboard2.0/static/js/main.38c6dae1.js",
+    "static/js/496.61c8cdb6.chunk.js": "/Redboard2.0/static/js/496.61c8cdb6.chunk.js",
+    "index.html": "/Redboard2.0/index.html",
+    "main.d88ae465.css.map": "/Redboard2.0/static/css/main.d88ae465.css.map",
+    "main.38c6dae1.js.map": "/Redboard2.0/static/js/main.38c6dae1.js.map",
+    "496.61c8cdb6.chunk.js.map": "/Redboard2.0/static/js/496.61c8cdb6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d88ae465.css",
-    "static/js/main.45b87ef5.js"
+    "static/js/main.38c6dae1.js"
   ]
 }
