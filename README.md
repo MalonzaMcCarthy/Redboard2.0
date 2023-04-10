@@ -23,9 +23,8 @@ Viewer is built using the following technologies:
 
 # Demo 
 
-- Check out our live demo at ####
+- Check out our live demo at https://malonzamccarthy.github.io/Redboard2.0/
  
-- Youtube video : https://www.youtube.com/watch?v=mGqOOtEGmJc.
 
 In the project directory, you can run:
 
